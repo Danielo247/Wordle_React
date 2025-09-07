@@ -8,7 +8,7 @@ A simple Wordle game with a **React frontend** and a **Spring Boot backend**, al
 
 ```
 Wordle_React/
-├── Dockerfile                    # Dockerfile for building frontend + backend in one container
+├── Dockerfile                   # Dockerfile for building frontend + backend in one container
 ├── Wordle-Backend/              # Spring Boot backend
 └── wordle-frontend/             # React frontend (Vite)
 ```
